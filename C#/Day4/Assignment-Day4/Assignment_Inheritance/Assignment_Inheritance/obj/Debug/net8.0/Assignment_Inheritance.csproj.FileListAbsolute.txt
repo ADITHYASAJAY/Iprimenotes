@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\bin\Debug\net8.0\Assignment_Inheritance.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\bin\Debug\net8.0\Assignment_Inheritance.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\bin\Debug\net8.0\Assignment_Inheritance.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\bin\Debug\net8.0\Assignment_Inheritance.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\bin\Debug\net8.0\Assignment_Inheritance.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\refint\Assignment_Inheritance.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\Assignment_Inheritance.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\Assignment\Assignment_Inheritance\Assignment_Inheritance\obj\Debug\net8.0\ref\Assignment_Inheritance.dll

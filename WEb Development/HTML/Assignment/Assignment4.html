@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <style>
+        /* Sign Up Heading */
+        body
+        {
+            width: 80%;
+            margin-left: 10%;
+        }
+        table
+        {
+            max-width: 700px;
+        }
+        
+        .signup {
+            background-color: orange;
+            color: yellow;
+            padding: 10px;
+            text-align: left;
+            border-top-right-radius: 25px;
+            border-top-left-radius: 25px;
+        }
+       input
+       {
+        padding: 4px;
+        border-radius: 4px;
+       }
+       
+        
+        /* Middle Content */
+        .middle-content {
+            background-color: rgb(7, 7, 51);
+            padding: 20px;
+        }
+        .middle-content table {
+            width: 100%;
+        }
+        .middle-content th,
+        .middle-content td {
+        color:rgb(177, 224, 82);
+            padding: 5px;
+        }
+        .middle-content th{
+            text-align: right;
+        }
+        /* Footer */
+        footer {
+            background-color: orange;
+            text-align: center;
+            padding: 10px;
+            display: flex;
+            justify-content: end;
+            border-bottom-left-radius: 25px;
+            border-bottom-right-radius: 25px;
+        }
+        footer button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        footer button.submit {
+            background-color: green;
+            color: white;
+        }
+        footer button.cancel {
+            background-color: red;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+ 
+<div class="signup">
+    <h2>Sign Up</h2>
+</div>
+ 
+<div class="middle-content">
+    <form>
+        <table>
+            <tbody>
+                <tr>
+                    <th> First Name</th>
+                    <td><input type="text" id="firstName" name="firstName" placeholder="Enter First Name" required></td>
+                </tr>
+                <tr>
+                    <th> Last Name</th>
+                    <td><input type="text" id="lastName" name="lastName" placeholder="Enter Last Name" required></td>
+                </tr>
+                <tr>
+                    <th>Screen Name</th>
+                    <td><input type="text" id="screenName" name="screenName" placeholder="Enter Screen Name" required></td>
+                </tr>
+                <tr>
+                    <th>Date of Birth></th>
+                    <td>
+                        <select id="dobMonth" name="dobMonth">
+                            <option value="May">May</option>
+                            <option value="Jan">Jun</option>
+                            <option value="Feb">Jul</option>
+                            <option value="Feb">Aug</option>
+                            <option value="Feb">Sep</option>
+                            <option value="Feb">Nov</option>
+                            <option value="Feb">Dec</option>
+                            <option value="Feb">Jan</option>
+                            <option value="Feb">Feb</option>
+                            <option value="Feb">mar</option>
+                            <option value="Feb">Arl</option>
+                            </select>
+                        <input type="number" id="dobDay" name="dobDay" placeholder="5" min="1" max="31" required>
+                        <input type="number" id="dobYear" name="dobYear" placeholder="1985" min="1900" max="2024" required>
+                    </td>
+                </tr>
+                <tr>
+                    <th><label>Gender</label></th>
+                    <td>
+                        <input type="radio" id="male" name="gender" value="Male" required>
+                        <label for="male">Male</label>
+                        <input type="radio" id="female" name="gender" value="Female" required>
+                        <label for="female">Female</label>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Country</th>
+                    <td>
+                        <select id="country" name="country">
+                            <option value="USA">USA</option>
+                            <option value="Canada">Canada</option>
+                            <option value="Mexico">Mexico</option>
+                            </select>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td><input type="email" id="email" name="email" placeholder="Enter Email" required></td>
+                  </tr>
+                  <tr>
+                    <th>Phone</th>
+                    <td><input type="tel" id="phone" name="phone" placeholder="Enter Phone Number" required></td>
+                  </tr>
+                  <tr>
+                    <th>Password</th>
+                    <td><input type="password" id="password" name="password" placeholder="Enter Password" required></td>
+                  </tr>
+                  <tr>
+                    <th>Confirm Password</th>
+                    <td><input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm Password" required></td>
+                  </tr>                
+                  <tr>
+                    <td colspan="2" style="text-align: center;">
+                        <input type="checkbox" id="agreeTerms" name="agreeTerms" required>
+                        <label for="agreeTerms">I agree to the Terms of Use</label>
+                    </td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+            <footer>
+                <div>
+                    <button type="submit" class="submit">Submit</button>
+                    <button type="reset"  class="cancel">Cancel</button>
+                </div>
+            </footer>
+                            
+            </form>                          
+          </body>
+          </html>

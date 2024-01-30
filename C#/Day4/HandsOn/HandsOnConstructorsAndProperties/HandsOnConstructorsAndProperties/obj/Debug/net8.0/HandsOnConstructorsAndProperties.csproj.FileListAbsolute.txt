@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\refint\HandsOnConstructorsAndProperties.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnConstructorsAndProperties\HandsOnConstructorsAndProperties\obj\Debug\net8.0\ref\HandsOnConstructorsAndProperties.dll

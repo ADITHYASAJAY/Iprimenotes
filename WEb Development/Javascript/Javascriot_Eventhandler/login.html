@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function Validate()
+        {
+            // alert("hi");
+            let uname=document.getElementById('txtUname').value;
+            let pwd=document.getElementById('txtPwd').value;
+            // alert(uname);
+            if(uname=='')
+            {
+                
+                document.getElementById('err_msg').innerText="Enter userName";
+                event.preventDefault();
+            }
+            else if(pwd=='')
+            {
+                document.getElementById('err_msg').innerText="Enter PassWord";
+                event.preventDefault();
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <form action="http://www.google.co.in" onsubmit="Validate()">
+        <table>
+            <tr>
+                <td>Enter UserName</td>
+                <td><input type="text" name="UserName" id="txtUname"></td>
+            </tr>
+            <tr>
+                <td>Enter Password</td>
+                <td><input type="password" name="Password" id="txtPwd"></td>
+            </tr>
+            <tr>
+                <td colspan="1">
+                    <input type="submit" value="SignIn">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="1">
+                       <span id="err_msg"></span> 
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

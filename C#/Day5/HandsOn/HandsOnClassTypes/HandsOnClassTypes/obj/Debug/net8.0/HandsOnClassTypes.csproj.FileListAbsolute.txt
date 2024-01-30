@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\refint\HandsOnClassTypes.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnClassTypes\HandsOnClassTypes\obj\Debug\net8.0\ref\HandsOnClassTypes.dll

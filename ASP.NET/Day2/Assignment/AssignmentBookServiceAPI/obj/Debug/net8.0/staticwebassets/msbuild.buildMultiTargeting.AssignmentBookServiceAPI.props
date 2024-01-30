@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AssignmentBookServiceAPI.props" />
+</Project>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        fieldset
+        {
+            display: inline-block;
+            width: 80%;
+            margin-left: 10%;
+        }
+        td{
+            width: 200px
+        }
+       .submit_div
+       {
+        width: 100%;
+        display: flex;
+        justify-content: end;
+       }
+       .submit_div input
+       {
+            margin-right: 10%;
+            padding: 0px 10px 0px 10px;
+       }
+    </style>
+</head>
+<body>
+    <form action="">
+        <div >
+            <fieldset >
+                <legend>Input Text Field Validation</legend>
+                <table>
+                    <tr>
+                        <td>First Name*</td>
+                        <td><input type="text" pattern="[A-Z,a-z]+" required placeholder="First Name"/></td>
+                    </tr>
+                    <tr>
+                        <td>Last Name*</td>
+                        <td><input type="text" required pattern="[A-Z,a-z]+" placeholder="Last Name"/></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                <legend>Email and URL Validation</legend>
+                <table>
+                    <tr>
+                        <td>Email*</td>
+                        <td> <input type="email" required placeholder="eg:abc@gmail.com"/> </td>
+                    </tr>
+                    <tr>
+                        <td>Website*</td>
+                        <td><input type="url" required placeholder="eg:http://www.google.com"/></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                <legend>Mobile or Phone Number Validation</legend>
+                <table>
+                    <tr>
+                        <td>Mobile*</td>
+                        <td> <input type="Text" required pattern="[6789]{1}[0-9]{9}" placeholder="Please enter a ten digit phone number"/></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                <legend>Drop Down Box Validation</legend>
+                <table>
+                    <tr>
+                        <td>
+                            <select required>
+                            <option default>India</option>
+                            <option>Nepal</option>
+                            <option value="">Sri Lanka</option>
+                            <option value="">Japan</option>
+                            <option value="">Iceland</option>
+                        </select></td>
+                    </tr>
+                </table>
+                
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                <legend>Number Validation With Specfic Range</legend>
+                <table>
+                    <tr>
+                        <td>
+                            Post Code
+                        </td>
+                        <td><input type="text" required pattern="[1-9]{1}[0-9]{5}"/></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                <legend>Textarea Validation</legend>
+                <table>
+                    <tr>
+                        <td>Address*</td>
+                        <td> <input type="text" required/></td>
+                    </tr>
+                </table>
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                <legend>CheckBox and Radio Button Validation</legend>
+                <table>
+                    <tr>
+                       <td>Agree to T & C*</td> 
+                       <td><input type="checkbox" required></td>
+                    <tr>
+                        <td>General*</td>
+                        <td><input type="radio" name="Gender" required></td>
+                        <td>Male</td>
+                        <td><input type="radio" name="Gender" required></td>
+                        <td>Female</td>
+                    </tr>
+                </table>
+            </fieldset>
+        </div>
+        <div >
+            <fieldset >
+                
+                <legend>Password Validation Using Pattern</legend>
+                <table>
+                    <tr>
+                        <td>Password*</td>
+                        <td><input type="password" required></td>
+                    </tr>
+                </table>
+
+            </fieldset>
+            <div class="submit_div">
+                <input type="submit" value = "SignUp">
+            </div>
+           
+        </div>
+        
+    </form>
+    
+</body>
+</html>

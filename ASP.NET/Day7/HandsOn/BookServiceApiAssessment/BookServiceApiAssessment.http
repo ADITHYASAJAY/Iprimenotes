@@ -1,0 +1,6 @@
+@BookServiceApiAssessment_HostAddress = http://localhost:5161
+
+GET {{BookServiceApiAssessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

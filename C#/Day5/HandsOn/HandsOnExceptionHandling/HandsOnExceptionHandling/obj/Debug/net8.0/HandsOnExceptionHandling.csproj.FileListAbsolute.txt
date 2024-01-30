@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\bin\Debug\net8.0\HandsOnExceptionHandling.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\refint\HandsOnExceptionHandling.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\HandsOnExceptionHandling.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnExceptionHandling\HandsOnExceptionHandling\obj\Debug\net8.0\ref\HandsOnExceptionHandling.dll

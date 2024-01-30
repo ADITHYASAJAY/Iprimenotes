@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\refint\HandsOnArrays.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnArrays\HandsOnArrays\obj\Debug\net8.0\ref\HandsOnArrays.dll

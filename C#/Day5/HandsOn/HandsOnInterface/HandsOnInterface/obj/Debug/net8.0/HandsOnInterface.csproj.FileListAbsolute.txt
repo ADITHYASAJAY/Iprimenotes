@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\bin\Debug\net8.0\HandsOnInterface.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\bin\Debug\net8.0\HandsOnInterface.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\bin\Debug\net8.0\HandsOnInterface.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\bin\Debug\net8.0\HandsOnInterface.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\bin\Debug\net8.0\HandsOnInterface.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\refint\HandsOnInterface.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\HandsOnInterface.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\HandsOn\HandsOnInterface\HandsOnInterface\obj\Debug\net8.0\ref\HandsOnInterface.dll

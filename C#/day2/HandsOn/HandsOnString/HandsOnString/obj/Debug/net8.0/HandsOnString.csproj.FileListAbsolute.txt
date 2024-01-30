@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\bin\Debug\net8.0\HandsOnString.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\bin\Debug\net8.0\HandsOnString.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\bin\Debug\net8.0\HandsOnString.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\bin\Debug\net8.0\HandsOnString.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\bin\Debug\net8.0\HandsOnString.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\refint\HandsOnString.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\HandsOnString.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\HandsOn\HandsOnString\HandsOnString\obj\Debug\net8.0\ref\HandsOnString.dll

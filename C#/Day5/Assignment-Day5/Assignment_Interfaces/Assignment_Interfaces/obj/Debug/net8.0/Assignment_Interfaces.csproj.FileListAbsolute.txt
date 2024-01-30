@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\bin\Debug\net8.0\Assignment_Interfaces.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\bin\Debug\net8.0\Assignment_Interfaces.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\bin\Debug\net8.0\Assignment_Interfaces.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\bin\Debug\net8.0\Assignment_Interfaces.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\bin\Debug\net8.0\Assignment_Interfaces.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\refint\Assignment_Interfaces.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\Assignment_Interfaces.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day5\Assignment\Assignment_Interfaces\Assignment_Interfaces\obj\Debug\net8.0\ref\Assignment_Interfaces.dll

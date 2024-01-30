@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <pv class="c1">Ima para1</p>
+    <h1 class="c1">heading 1</h1>
+    <p class ="c2">Para 2</p>
+    <h1 class="c2">heading2</h1>
+    <script>
+        let items1= document.getElementsByClassName('c1');
+        for(let k of items1)
+        alert (k.innerText);
+    
+        let items2= document.getElementsByClassName('c2');
+        items2[0].style.color="red";
+       
+    
+    </script>
+</body>
+</html>

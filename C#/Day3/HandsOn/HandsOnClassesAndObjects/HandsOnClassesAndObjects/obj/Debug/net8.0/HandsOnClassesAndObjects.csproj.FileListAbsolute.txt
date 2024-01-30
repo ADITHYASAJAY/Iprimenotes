@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\refint\HandsOnClassesAndObjects.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day3\HandsOn\HandsOnClassesAndObjects\HandsOnClassesAndObjects\obj\Debug\net8.0\ref\HandsOnClassesAndObjects.dll

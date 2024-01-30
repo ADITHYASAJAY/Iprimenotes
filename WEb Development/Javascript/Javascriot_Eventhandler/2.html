@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let Greet=()=>
+        {
+            let obj= document.getElementById('t1');
+            let name =obj.value;
+            document.getElementById('s1').innerText = 'Hello '+name;
+        }
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Enter Name</td>
+            <td><input type="text" id="t1" name="" id=""></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="button" value="Ok" onclick="Greet()">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <span id='s1'></span>
+            </td>
+            
+        </tr>
+    </table>
+</body>
+</html>

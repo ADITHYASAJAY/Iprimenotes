@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\bin\Debug\net8.0\HandsOnInheritence.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\bin\Debug\net8.0\HandsOnInheritence.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\bin\Debug\net8.0\HandsOnInheritence.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\bin\Debug\net8.0\HandsOnInheritence.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\bin\Debug\net8.0\HandsOnInheritence.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\refint\HandsOnInheritence.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\HandsOnInheritence.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day4\HandsOn\HandsOnInheritence\HandsOnInheritence\obj\Debug\net8.0\ref\HandsOnInheritence.dll

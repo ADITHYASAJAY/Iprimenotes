@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.exe
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.deps.json
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.dll
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.pdb
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.dll
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\refint\HandsOnDependencyInjection.dll
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.pdb
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day3\HandsOn\HandsOnDependencyInjection\obj\Debug\net8.0\ref\HandsOnDependencyInjection.dll

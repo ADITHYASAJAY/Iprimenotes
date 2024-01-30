@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\bin\Debug\net8.0\StringAssignments.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\bin\Debug\net8.0\StringAssignments.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\bin\Debug\net8.0\StringAssignments.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\bin\Debug\net8.0\StringAssignments.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\bin\Debug\net8.0\StringAssignments.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\refint\StringAssignments.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\StringAssignments.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\day2\Assignments- Day2\StringAssignments\StringAssignments\obj\Debug\net8.0\ref\StringAssignments.dll

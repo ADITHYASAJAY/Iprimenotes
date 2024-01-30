@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Type Demo</title>
+    <style>
+        table {
+            width: 25%;
+            border-collapse: collapse;
+            background-color: lightgray;
+        }
+        th, td {
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;          
+        }
+        input{
+         border: 2px inset lightgrey;      
+        }
+    </style>
+</head>
+<body>
+ 
+<h1 style="font-weight: bold;">Input Type Demo</h1>
+ 
+<table>
+    <form action="https://www.facebook.com" method="post">
+        <table >
+            <tr>
+                <td>Name *</td>
+                <td><input type="text"  id="textname" required pattern="[A-Z]+" title="Name Should be in Upper Case"></td>
+            </tr>
+            <tr>
+                <td> Age*</td>
+                <td> <input type="number" id="num" required pattern="[20-45]+" title="Age Should be in between 20 to 45"></td>
+            </tr>
+            <tr>
+                <td>Mobile</td>
+                <td><input type="text"  id="textmobile" required pattern="[6789]{1}[0-9]{9}" title="Invalid Mobile no"></td>
+            </tr>
+            <tr>
+                <td>Email*</td>
+                <td><input type="email"  id="textemail" required pattern="[[a-zA-Z0-9._%+-]+@gmail\.com$]+" title="should be in the form of @gmail.com"></td>
+            </tr>
+            <tr>           
+                <td>DateOfBirth</td>
+                <td> <input type="date" id=""></td>
+            </tr>
+            <tr>
+                <td>Website url</td>
+                <td> <input type="url" id=""></td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="submit">
+                </td>
+            </tr>  
+        </table>
+    </form>
+    <form action="" method="">
+        <label>country</label>
+        <input list="country">
+        <datalist id="country">
+            <option value="India"></option>
+            <option value="Iran"></option>
+            <option value="Iraq"></option>
+            <option value="Indonesia"></option>
+        </datalist>
+        <input type="submit" value="submit">
+    </form>
+
+
+ 
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.exe
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.deps.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\bin\Debug\net8.0\HandsOnNonGenericCollections.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\refint\HandsOnNonGenericCollections.dll
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.pdb
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\HandsOnNonGenericCollections.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\C#\Day6\HandsOn\HandsOnNonGenericCollections\HandsOnNonGenericCollections\obj\Debug\net8.0\ref\HandsOnNonGenericCollections.dll

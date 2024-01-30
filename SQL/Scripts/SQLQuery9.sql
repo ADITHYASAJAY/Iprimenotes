@@ -1,0 +1,20 @@
+select getdate()
+select year('1/23/2023')
+select month('1/23/2023')
+select day('1/23/2023')
+select * from sales where year(ord_date) = 1994
+select DATEPART(yy,'2.20.2020')
+select DATEPART(mm,'2.20.2020')
+select DATEPART(dd,'2.20.2020')
+select DATEPART(dw,'1.12.2020') --dw day of the week
+select DATEDIFF(yy,'3.13.1999',getdate())
+select DATEDIFF(mm,'3.13.1999',getdate())
+select DATEDIFF(dd,'3.13.1999',getdate())
+select isdate('1.1.2000')
+select isdate('100.1.2000')
+select DateAdd(yy,3,'3.12.2010')
+select DateAdd(mm,3,'3.12.2010')
+select DateAdd(dd,3,'3.12.2010')
+
+select LEN('Hello World')
+select UPPER('Hello world')
